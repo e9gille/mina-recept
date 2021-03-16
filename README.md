@@ -1,2 +1,4 @@
 # mina-recept
-Mina favoritrecept
+Mina favoritrecept som jag har samlat på mig genom åren.
+
+Bidrag är välkomna.
